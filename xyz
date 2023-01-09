@@ -1089,6 +1089,11 @@ ELEVEN体育二台,rtmp://59.124.75.157/sat/md041
 广州南国都市(4K),http://124.222.238.146:1125/m3u8.php?/GZTV/shenghuo/playlist.m3u8
 测试,#genre#
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+抖音CDN翡翠台,http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
+抖音CDN明珠台,http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8
+抖音CDNJ2,http://baidu.douyincdn.freetvtv.com/j22/m2.m3u8
+抖音CDN无线新闻,http://43.128.40.42:2212/tvb.php?id=1
+官网代理无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 香港TVB,http://114.84.76.27:7777/tsfile/live/1031_1.m3u8
