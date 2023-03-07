@@ -1,0 +1,11 @@
+台湾,#genre#
+CNN,P2p://generationnexxxt.com:19806/28b3b84bc22e468893dc6f267d363099
+民视,P2p://generationnexxxt.com:19806/debfc7e3fc6f4f5ba921859e73b78a9f
+人间卫视,P2p://generationnexxxt.com:19806/7ae3cb55ad714371aa2c3889e3feb580
+台视,P2p://generationnexxxt.com:19806/049edd42c1484c2f894a3f249fdb253b
+大爱,P2p://generationnexxxt.com:19806/167ef66a89d8445eb27be19127be48c6
+中视,P2p://generationnexxxt.com:19806/68e0cbcb508e48339eb69de581c80074
+霹雳台湾台,P2p://generationnexxxt.com:19806/f0a258ccb07548019a24e57a03f8f0ea
+华视,P2p://generationnexxxt.com:19806/ac34167158e74163840d1950e28b7c1e
+公视,P2p://generationnexxxt.com:19806/e94943dd37f1412ebe659c3ab9b5ba6c
+好消息,P2p://generationnexxxt.com:19806/736b7d5cb68345e49afeb6412b27d708
